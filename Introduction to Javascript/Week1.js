@@ -13,20 +13,20 @@
 */  
 
 
-const person = {
-    firstName: 'Author',
-    lastName: 'Williams',
-    bloodType: 'AA',
-    age: 17,
-    nationality: 'Nigeria',
-    favoriteColor: 'Black',
-}
+// const person = {
+//     firstName: 'Author',
+//     lastName: 'Williams',
+//     bloodType: 'AA',
+//     age: 17,
+//     nationality: 'Nigeria',
+//     favoriteColor: 'Black',
+// }
 
 
-const players = ['Mayor', true, 10, person]
+// const players = ['Mayor', true, 10, person]
 
 
-let firstName = 'Author'
+// let firstName = 'Author'
 
 
 // ---------------
@@ -51,7 +51,7 @@ let minimumAge = 18
 //     console.log('Too young')
 // }
 
-let result;
+// let result;
 
 // if(10 > 9) {
 //     result = 'Yeah'
